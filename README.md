@@ -1,12 +1,8 @@
-markdown
----
-layout: default
-title: A journal to share some simple ideas
----
+# A journal to share some simple ideas
 
 ## About Me
 
-Hello! I'm a web developer passionate about creating awesome websites.
+Hello! I'm a developer.
 
 ## My Projects
 
