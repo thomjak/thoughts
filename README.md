@@ -1,3 +1,4 @@
+markdown
 ---
 layout: default
 title: A journal to share some simple ideas
