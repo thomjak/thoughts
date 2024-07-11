@@ -18,9 +18,9 @@ When I write, I have to:
 
 A very nice side effect of this is that I build up a catalog of the things I have learned for later review.
 
-Here, I’ll share how writing has made an impact on my learning process.
-
 ## How I write
+This is how I use writing to learn.
+
 ✍🏻 **Personal yearly document.** Every December I start a new [Google document](https://docs.google.com/) for the upcoming year named 2022, 2023, 2024 and so on. This is where I dump everything I want to focus on, goals, vision, favorite quotes, habits, thoughs, ideas and so on. Every year I carry over the best parts from the previous year. Mainly the goal here is continuous self improvement.
 
 ✍🏻 **Journaling.** Sometimes I just to a brain dump in the form of a **journal**. When I do this I write "without thinking". I forget about grammar, structure, words and just hammer down everything that comes to mind. Often this is just a reflection of what has been going on lately. This is very useful and interesting to read later on. It is a really fun exercise that I highly recomment trying. This journal is nothing fancy but I prefer haveing a digital journal. For me it is a simple [Google document](https://docs.google.com/).
