@@ -12,4 +12,4 @@ Here we go. I have created a blog using [Hugo](https://gohugo.io/) and the [Anat
 
 It has been a pretty smooth experience so far. Maybe I'll share some more details and thoughts in a later post 🚀
 
-My goal with this blog is to practice writing to better internalize and remember the knowledge I learn. This will also get its own post later on 😄
+My goal with this blog is to practice writing to better internalize and remember the knowledge I aquire. This topic will also get its own post later on 😄
