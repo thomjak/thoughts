@@ -31,7 +31,7 @@ Here are some ways I have fallen for sunk-cost bias:
 
 🙋🏻 If you have paid to watch a movie, who walks out halfway if it is bad? I don't.
 
-**It is natural** to struggle with letting go of something we've invested in or feel ownership of, even if it was a bad choice. But if we don’t we are just waiting even more.
+**It is natural** to struggle with letting go of something we've invested in or feel ownership of, even if it was a bad choice. But if we don’t we are just wasting even more.
 
 I want to be comfortable letting go, pulling the plug, uncommitting, cutting the losses, admitting failure and moving on. It is by no means easy but here are some of the techniques I use to avoid or get out of sunk-cost bias:
 
