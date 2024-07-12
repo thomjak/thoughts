@@ -49,4 +49,4 @@ I want to be comfortable letting go, pulling the plug, uncommitting, cutting the
 
 ✅ **Reset.** Pretend to hit the reset button. If you hadn’t started the book yet would you now? If you didn’t have any shares in the company what would you pay for one today?
 
-For me, being aware of biases like sunk-cost bias has definetly helped me making better desicions and especially avoiding or getting out of bad ones. However it takes time and practise and scheduling time for reflection is key.
+For me, being aware of biases like sunk cost fallacy has definetly helped me making better desicions and especially avoiding or getting out of bad ones. However it takes time and practise and scheduling time for reflection is key.
