@@ -24,21 +24,21 @@ To use an example inspired by the podcast:
 
 Let's say your goal is to get promoted. In 1000 parallel universes you want to get promoted in 999 of them. You don’t want to get promoted in the 50 of them where you got lucky. You want to get promoted because you are the best candidate for the job.
 
-Let's dive into the four types of luck and how I use it to try to remove luck from the equation.
+Let's dive into the four types of luck (first described in [this book](https://www.goodreads.com/book/show/1147920.Chase_Chance_and_Creativity)) and how I use it to try to remove luck from the equation.
 
-🍀**Blind luck.** This is luck that is completely random and there is nothing we can do about it 🤷🏻
+🍀 **Blind luck.** This is luck that is completely random and there is nothing we can do about it 🤷🏻
 - Where you were born
 - How wealthy your parents are
 - Winning the lottery 
 
-🍀**Luck from hard work.** Consistency, hard work and dedication. Make sure you excel in your role, be the best version of yourself every day, take on additional responsibility and stay positive. Do everything you can to increase the likelihood that your efforts will be recognized and rewarded. 
+🍀 **Luck from hard work.** Consistency, hard work and dedication. Make sure you excel in your role, be the best version of yourself every day, take on additional responsibility and stay positive. Do everything you can to increase the likelihood that your efforts will be recognized and rewarded. 
  
-🍀**Seeing luck.**
+🍀 **Seeing luck.**
 If you are very skilled in something you will gain awareness for luck or become better at spotting luck. You will probably sense an opportunity before most others. This can also be “being at the right place at the right time”. but if you have this 6th sense for your field of expertise you might be able to recognize and grab the opportunity before others do.
 
 These opportunities do not have to be something big, maybe you see room for improvement at work. Something that nobody recognizes and never does anything about. Relentlessly look for these opportunities, grab them and see where they lead you.
 
-🍀**Making your own luck.**
+🍀 **Making your own luck.**
 The 4th type of luck is you being the best possible version of yourself and doing everything you can to make your own luck, every day. While luck number two is more about hard work, this is more about creating opportunities for yourself by being as proactive as you possibly can.
 - Connect with new people every day
 - Be open to new perspectives
