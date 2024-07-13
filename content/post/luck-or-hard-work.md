@@ -34,7 +34,7 @@ Let's dive into the four types of luck (first described in [this book](https://w
 🍀 **Luck from hard work.** Consistency, hard work and dedication. Make sure you excel in your role, be the best version of yourself every day, take on additional responsibility and stay positive. Do everything you can to increase the likelihood that your efforts will be recognized and rewarded. 
  
 🍀 **Seeing luck.**
-If you are very skilled in something you will gain awareness for luck or become better at spotting luck. You will probably sense an opportunity before most others. This can also be “being at the right place at the right time”. but if you have this 6th sense for your field of expertise you might be able to recognize and grab the opportunity before others do.
+If you are very skilled in something you will gain awareness for luck or become better at spotting luck. You will probably sense an opportunity before most others. This can also be “being at the right place at the right time”. But if you have this 6th sense for your field of expertise you might be able to recognize and grab the opportunity before others do.
 
 These opportunities do not have to be something big, maybe you see room for improvement at work. Something that nobody recognizes and never does anything about. Relentlessly look for these opportunities, grab them and see where they lead you.
 
