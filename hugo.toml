@@ -15,6 +15,11 @@ singleDateFormat = "2006-01-02"
 indexDateFormat = "2006-01-02"
 listDateFormat = "2006-01-02"
 
+[params.umami]
+serverURL = "analytics.umami.is"
+id = "ecad61bb-b589-4315-95b5-6140064bc2af"
+trackerScriptName = "script.js"
+
 [menu]
   [[menu.main]]
   name = "Home"
