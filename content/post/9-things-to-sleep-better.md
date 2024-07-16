@@ -24,19 +24,11 @@ Sleep is important. I have heard it a million times. But exactly how important i
 - 🙋🏻 Low impulse control
 - 🙋🏻 Memory problems / brain fog
 
-In addition to these there are several negative health effects that come with bad sleep.
-
-People in general need **7-9 hours of sleep each night**. This depends on many factors such as genetics or lifestyle so you might need less or more. For me, I have no problem sleeping 6 hours for 3-4 nights in a row but after that I notice that I’m falling behind.
-
-**I want to be better at sleeping** and I know several things I have to do in order to achieve it but it is so hard. So now I’m writing this article to force myself to remember what exactly I need to do to sleep better.
+In addition to these there are several negative health effects that come with bad sleep. People in general need **7-9 hours of sleep each night**. This depends on many factors such as genetics or lifestyle so you might need less or more. For me, I have no problem sleeping 6 hours for 3-4 nights in a row but after that I notice that I’m falling behind. **I want to be better at sleeping** and I know several things I have to do in order to achieve it but it is so hard. So now I’m writing this article to force myself to remember what exactly I need to do to sleep better.
 
 ### 1. Avoid heavy eating and drinking for the last 2-3 hours before bedtime
 
-Try to limit eating and drinking for the last 2-3 hours before bedtime.Eating will stimulate your digestive system, increase the heart rate and blood pressure which can make it much harder to fall and stay asleep.
-
-If you want a small evening snack, eat some carbs, like a piece of bread as it triggers the release of serotonin. Serotonin is a chemical messenger in the brain, a neurotransmitter. It helps by promoting relaxation.
-
-Of course drinking too much liquid might make you have to get up to pee during the night, interrupting sleep. 
+Try to limit eating and drinking for the last 2-3 hours before bedtime.Eating will stimulate your digestive system, increase the heart rate and blood pressure which can make it much harder to fall and stay asleep. If you want a small evening snack, eat some carbs, like a piece of bread as it triggers the release of serotonin. Serotonin is a chemical messenger in the brain, a neurotransmitter. It helps by promoting relaxation. Of course drinking too much liquid might make you have to get up to pee during the night, interrupting sleep. 
 
 😅 I'm not so good at this one. Drinking (water) is not a problem for me unless I drink too much. Eating I can definitely improve. I’m snacking in the evening way too often. I have not tested how this affects my sleep though but I’m trying to limit evening food.
 
@@ -53,9 +45,7 @@ Alcohol may help you sleep faster but it reduces the quality of sleep, even for 
 
 ### 4. No screen time before bed and put the #¤&%¤ phone out of reach 🤓
 
-Do not use screens at least 1 hour before bedtime. I know it but oh my god so difficult. The few times I have actually done this before I instantly sleep better.
-
-Why? Because our sleep wake cycle is regulated by a hormone called melatonin. As the day draws to an end our brains release melatonin. This is one of the things that makes us start feeling sleepy. Exposure to light from screens suppresses this. This is mainly due to blue wavelengths of light that come from screens. Blue light blockers can help a bit but the problem is the content on the phone that keeps our brain fired up.
+Do not use screens at least 1 hour before bedtime. I know it but oh my god so difficult. The few times I have actually done this before I instantly sleep better. Why? Because our sleep wake cycle is regulated by a hormone called melatonin. As the day draws to an end our brains release melatonin. This is one of the things that makes us start feeling sleepy. Exposure to light from screens suppresses this. This is mainly due to blue wavelengths of light that come from screens. Blue light blockers can help a bit but the problem is the content on the phone that keeps our brain fired up.
 
 ✅ This totally works for me. It is especially noticeable if I do focus work late at night. I almost always struggle to sleep, my mind is racing. But just by putting my phone out of the bedroom I instantly sleep better.
 
