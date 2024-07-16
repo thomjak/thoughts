@@ -14,6 +14,7 @@ readMore = true
 singleDateFormat = "2006-01-02"
 indexDateFormat = "2006-01-02"
 listDateFormat = "2006-01-02"
+contentratio = 0.4
 
 [params.umami]
 serverURL = "analytics.umami.is"
