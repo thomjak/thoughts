@@ -38,7 +38,7 @@ If you want a small evening snack, eat some carbs, like a piece of bread as it t
 
 Of course drinking too much liquid might make you have to get up to pee during the night, interrupting sleep. 
 
-😅 Not so good at this one. Drinking (water) is not a problem for me unless I drink too much. Eating I can definitely improve. I’m snacking in the evening way too often. I have not tested how this affects my sleep though but I’m trying to limit evening food.
+😅 I'm not so good at this one. Drinking (water) is not a problem for me unless I drink too much. Eating I can definitely improve. I’m snacking in the evening way too often. I have not tested how this affects my sleep though but I’m trying to limit evening food.
 
 ### 2. No coffee or caffeine late in the day
 
@@ -63,13 +63,13 @@ Why? Because our sleep wake cycle is regulated by a hormone called melatonin. As
 
 Instead of using screens, working or exercising, try to calm down. Read. Write. Meditate. Take a hot shower. Listen to relaxing music. When we are about to sleep our core body temperature drops up to 1 degree Celsius. Therefore it can help fall asleep by taking a hot shower before bed which mimics this process.
 
-✅ 
+✅ Not thought much about this but reading always make me sleepy.
 
 ### 6. Do not read in bed 🫢
 
 Our brains are highly associative. It naturally links a particular place with specific activities. Try to keep the bedroom for sleeping. 
 
-🤔I’m not sure about this one. For me reading helps me fall asleep so I guess I will continue with that.
+🤔 I’m not sure about this one. For me reading helps me fall asleep so I guess I will continue with that.
 
 ### 7. Do a brain dump
 
