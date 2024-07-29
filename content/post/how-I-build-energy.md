@@ -48,4 +48,4 @@ Imagine what can be learned in that focused time.
 
 There are 24 hours in a day, and if I can’t find 15 minutes to blindly follow one of the 15 min HIIT sessions, I think I need to reevaluate my schedule. 😅🚀💪🏻
 
-What are your simple ways to stay in shape and build energy? <a href="https://twitter.com/intent/tweet?text=Two%20Simple%20and%20Effective%20Ways%20To%20Stay%20in%20Shape%20and%20Build%20Energy%20by%20%40heisanthomas%0A&url=https%3A%2F%2Fthomasjakobsen.com%2Fpost%2Fhow-I-build-energy%2F">Share on X</a> 👋🏻
+What are your simple ways to stay in shape and build energy? [Share on X](https://twitter.com/intent/tweet?text=Two%20Simple%20and%20Effective%20Ways%20To%20Stay%20in%20Shape%20and%20Build%20Energy%20by%20%40heisanthomas%0A&url=https%3A%2F%2Fthomasjakobsen.com%2Fpost%2Fhow-i-build-energy%2F) 👋🏻
