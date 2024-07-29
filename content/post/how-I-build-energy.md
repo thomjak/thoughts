@@ -7,8 +7,6 @@ Categories: []
 DisableComments: false
 ---
 
-# The Two Simple and Effective Ways I Stay in Shape and Build Energy
-
 Having energy is essential in a busy day-to-day life. Work, kids, spouse, activities, chores—everything costs energy. After the kids are in bed, I really just want to sit down on the sofa, relax, pop a beer, and do something that requires zero cognitive effort, like rewatching *The Office* for the 10th time. It's always been a challenge to not do that, to not just sit down and instead do something useful. It's not that I can never do those things, but it's better to schedule it. One specific hour once per week, or every Friday night—whatever fits you. Scheduling relax time helps me be mentally prepared to do something else when the evening comes.
 
 ## So, How Do I Build Energy?
