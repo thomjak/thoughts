@@ -31,7 +31,7 @@ Forget gym memberships, exercise clothes, shoes, equipment, tech, training progr
 
 The beauty of most of these HIIT videos is that they generally only use body weight (no equipment required). Also, you can scale it up and down based on your fitness level. As you get more fit, just increase the intensity.
 
-Then if I'm still going strong 3-6 months later, it means I have build new habits and I can start thinking about what to do next. But for now, I just need to get it done. 🚀 
+Then if I'm still going strong 3-6 months later, it means I have built new habits and I can start thinking about what to do next. But for now, I just need to get it done. 🚀 
 
 ## Conclusion
 
