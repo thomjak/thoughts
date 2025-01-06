@@ -9,7 +9,7 @@ DisableComments: true
 
 Too much screen time. Too many notifications. Doom scrolling. Going down rabbit holes on YouTube. I know it is bad and I have had good intentions to fix it for years. But I have always fallen back. So now I have, inspired by Alex Hormozi, yet again made some changes and some new ones and so far they seem to work better than before.
 
-## Why I don't by a dumbphone
+## Why I don't buy a dumbphone
 
 I have thought about buying a dumbphone many times. A phone with a tiny screen, few/no apps,  physical buttons and few distractions. However, I have come to the conclusion that it is too inconvenient to live in 2025 without a smartphone as or world get more digital day by day. Bus tickets, parking apps, school apps for the kids, identification (BankID), Bank app, payment (Vipps), authenticators, library app and so on. It is possible to be withouth these but in many cases it just too much of a hassle. For me.   
 
