@@ -11,19 +11,19 @@ Too much screen time. Too many notifications. Doom scrolling. Going down rabbit 
 
 ## Why I don't buy a dumbphone
 
-I have thought about buying a dumbphone many times. A phone with a tiny screen, few/no apps,  physical buttons and few distractions. However, I have come to the conclusion that it is too inconvenient to live in 2025 without a smartphone as or world get more digital day by day. Bus tickets, parking apps, school apps for the kids, identification (BankID), Bank app, payment (Vipps), authenticators, library app and so on. It is possible to be withouth these but in many cases it just too much of a hassle. For me.   
+I have thought about buying a dumbphone many times. A phone with a tiny screen, few/no apps,  physical buttons and few distractions. However, I have come to the conclusion that it is too inconvenient to live in 2025 without a smartphone as our world get more digital day by day. Bus tickets, parking apps, school apps for the kids, identification (BankID), Bank app, payment (Vipps), authenticators, library app and so on. It is possible to be without these but in many cases it just too much of a hassle. For me.   
 
 ## Hack 1: Setting the phone in grayscale mode
 
-This one I have never tried before and so far it is very promising. Simply make the screen and phone more unattractive by removing colors. Colors and notifications are used to attract us. One study performed by New York University found that grayscale mode led to reduced smartphone usage. Some participants reported screentime reductions of 15-30% compared to full-color mode.
+This one I have never tried before and so far it is very promising. Simply make the screen and phone more unattractive by removing colors. Colors and notifications are used to attract us. One study conducted by New York University found that grayscale mode led to reduced smartphone usage. Some participants reported screen time reductions of 15-30% compared to full-color mode.
 
 I have already noticed a positive effect for me so far. It is much less appealing to watch YouTube videos for example. There are multiple ways to enable grayscale mode, depending on your phone model, and I highly recommend looking it up.
 
 ## Hack 2: Turning off notifications
 
-Yes, I have tried this multiple times before and failed. But this time, I’ve taken a much stricter approach. Especially turning off notifications for Messenger and other chat apps has made a huge difference so far. I often forget checking messages for hours at a time. If it is urgent, people can call me. This has been very postive so far. The only notifications I still have are Bank/payments and national id (BankID app), Parking app and such that I really dont want to miss.
+Yes, I have tried this multiple times before and failed. But this time, I’ve taken a much stricter approach. Especially turning off notifications for Messenger and other chat apps has made a huge difference so far. I often forget checking messages for hours at a time. If it is urgent, people can call me. This has been very positive so far. The only notifications I still have are Bank/payments and national id (BankID app), Parking app and such that I really don't want to miss.
 
-_The idea here is that I don't want apps to interrupt me when its convenient for **them** (push). I want to check the apps when its convenient for ***me*** (pull). That's how it should be._
+_The idea here is that I don't want apps to interrupt me when it's convenient for **them** (push). I want to check the apps when it's convenient for ***me*** (pull). That's how it should be._
 
 ## Potential hack 3: Deleting apps
 
